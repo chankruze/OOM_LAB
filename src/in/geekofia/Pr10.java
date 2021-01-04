@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Pr10 {
     /**
-     * Practical Number: 08
+     * Practical Number: 10
      * Task: Write a Java program and compute the sum of the digits of an integer.
      */
     public static void main(String[] args) {
